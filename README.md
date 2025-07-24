@@ -2,18 +2,18 @@
   <h1 align="center">Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis</h1>
   <h3 align="center"><b>MICCAI 2025 (Early Accept)</b></h3>
   <p align="center">
-    <h3 align="center">
+    <h4 align="center">
       <a href="https://kochanha.github.io/"><strong>Chanyoung Kim*</strong></a> · 
       <a href="https://jdy77.github.io/"><strong>Dayun Ju*</strong></a> · 
       <a href="https://rubato-yeong.github.io/"><strong>Jinyeong Kim</strong></a> · 
       <a href="https://dnwjddl.github.io/"><strong>Woojung Han</strong></a> · 
       <a href="https://www.amazon.science/author/roberto-alcover-couso"><strong>Roberto Alcover-Couso</strong></a> · 
       <a href="https://micv-yonsei.github.io/#professor"><strong>Seong Jae Hwang</strong></a>
-    </h3>
-    <h3 align="center">
+    </h4>
+    <h4 align="center">
       Yonsei University ·
       Amazon 
-    </h3>
+    </h4>
   </p>
   <p align="center">
     <a href="https://arxiv.org/abs/2503.08346"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2503.08346-b31b1b.svg"></a>
